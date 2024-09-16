@@ -80,7 +80,7 @@
           <mxGeometry x="310" y="660" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dXJeimvYDSdvy3GtaXaQ-32" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="460" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
